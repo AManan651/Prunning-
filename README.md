@@ -1,2 +1,2 @@
 # Prunning-
-Prepruning stops the growth of the tree early based on preset criteria to avoid overfitting. Postpruning trims the fully grown tree to remove parts that do not contribute significantly to predictive power, usually resulting in a more simplified model
+Prepruning stops the growth of the tree early based on preset criteria to avoid overfitting(model - https://colab.research.google.com/drive/1mRweTWN7FhPDmgAkn65HNzT4yTMiPu_s?usp=sharing). Postpruning trims the fully grown tree to remove parts that do not contribute significantly to predictive power, usually resulting in a more simplified model(model- https://colab.research.google.com/drive/19N7v2ZMbQmCIQJgn9cciJ32Gpq2wXSUA?usp=sharing)
